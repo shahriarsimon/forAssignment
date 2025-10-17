@@ -6,6 +6,6 @@ void greet(String name) {
 
 
 void main() {
-  greet("John");
+  greet("haric");
 
 }

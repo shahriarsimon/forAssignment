@@ -5,6 +5,6 @@ void main() {
 }
 
 void printName() {
-  print("My name is Shajnin Rahman Omi");
+  print("My name is Md. Shahriar Khan Simon");
 
 }

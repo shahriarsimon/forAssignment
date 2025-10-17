@@ -9,7 +9,7 @@ void createUser(String name, int age, {bool isActive = true}) {
 
 void main() {
 
-  createUser("Shajnin", 22);
-  createUser("Anika", 21, isActive: false);
+  createUser("simon", 22);
+  createUser("nadia", 21, isActive: false);
 
 }

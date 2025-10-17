@@ -5,7 +5,7 @@ import 'dart:io';
 
 String generatePassword(int length) {
   const chars =
-      'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#\$%^&*';
+      'hlwitssimon1122@#\$%^&*';
   Random random = Random();
   return List.generate(
     length,
